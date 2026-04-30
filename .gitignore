@@ -1,0 +1,29 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+env/
+venv/
+ENV/
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# --- Data ---
+*.csv
+*.pcap
+data/
+raw_data/
+
+# --- OS & IDE ---
+.DS_Store
+.vscode/
+.idea/
+.env
+
+# --- Distribution / Packaging ---
+dist/
+build/
+*.egg-info/

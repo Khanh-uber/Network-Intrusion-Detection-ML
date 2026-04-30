@@ -7,6 +7,7 @@ Dự án sử dụng Machine Learning để phát hiện xâm nhập mạng dự
 - **Trần Minh Khôi:** Huấn luyện mô hình (Random Forest, SVM, KNN), Đánh giá hiệu suất (Metrics).
 
 ## 📂 Cấu trúc thư mục
+```
 Network-Intrusion-Detection-ML/
 ├── notebooks/
 │   ├── 1_EDA_Preprocessing.ipynb     
@@ -24,7 +25,8 @@ Network-Intrusion-Detection-ML/
 ├── models_saved/                     
 │   └── best_rf_model.pkl
 └── main.py                           
-
+```
+---
 ## 🚀 Cài đặt môi trường
 1. Tạo môi trường ảo:
    ```bash
@@ -37,6 +39,6 @@ Network-Intrusion-Detection-ML/
    ```bash
    pip install -r requirements.txt
    ```
-
+---
 ## 🛠 Cách chạy dự án
 (Sẽ cập nhật sau khi hoàn thiện các module)

@@ -27,3 +27,6 @@ raw_data/
 dist/
 build/
 *.egg-info/
+dataset/
+*.pkl
+*.zip
